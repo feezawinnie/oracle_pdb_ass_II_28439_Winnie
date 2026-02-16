@@ -105,3 +105,14 @@ I learned to always check PDB status before opening to avoid errors. The FILE_NA
 Oracle Database 21c Documentation
 Course Lecture: "Introduction to PL/SQL"
 Course Lecture: "Oracle Database Environment (CDBs & PDBs) & OEM"
+
+
+## Progress
+
+- [ ] Correct PDB names used 
+- [ ] User created inside the PDB  
+- [ ] Temporary PDB created and deleted  
+- [ ]  OEM dashboard screenshot included  
+- [ ]  Github repository is PUBLIC
+- [ ]  README  is clear and professional 
+- [ ] Deadline respected
