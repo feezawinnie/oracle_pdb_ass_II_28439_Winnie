@@ -116,5 +116,5 @@ Course Lecture: "Oracle Database Environment (CDBs & PDBs) & OEM"
 - [✓]Github repository is PUBLIC
 - [✓]README  is clear and professional 
 - [✓]Deadline respected
-- [ ] deadline
+
 
