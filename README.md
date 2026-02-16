@@ -25,18 +25,20 @@ Configuring and accessing Oracle Enterprise Manager (OEM)
 - Tool: SQL*Plus, Oracle Enterprise Manager (OEM)
 
 ## Repository content
+
 FEEZA_WINNIE_pdb_28439/
-├── README.md
-└── screenshots/
-├── 01_database_connection.png
-├── 02_pdb_creation.png
-├── 03_pdb_open.png
-├── 04_show_pdbs.png
-├── 05_delete_pdb_creation.png
-├── 06_pdb_deleted.png
-├── 07_oem_configure.png
-├── 08_oem_dashboard.png
-└── 09_oem_tablespaces.png
+├── README.md  
+└── screenshots/  
+    ├── 01_CON_NAME.png  
+    ├── 02_dashboard.png  
+    ├── 03_db_table.png  
+    ├── 04_delete_db.png  
+    ├── 05_drop_dbs.png  
+    ├── 06_grant_user.png  
+    ├── 07_PDBS_WI.png  
+    ├── 08_pluggable_db.png  
+    └── 09_Tablespace.png  
+
 
 ## Task 1: Create a New PDB
 ## Objective
