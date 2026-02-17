@@ -48,9 +48,9 @@ Create a permanent pluggable database for storing coursework.
 PDB Details:
 
 PDB Name: WI_PDB_28439
-
+--
 Admin User: Winnie_plsqlauca_28439
-
+--
 Status: READ WRITE (Auto-open enabled)
 
 ### PDB Created
