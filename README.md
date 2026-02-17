@@ -47,11 +47,11 @@ Create a permanent pluggable database for storing coursework.
 
 PDB Details:
 
-PDB Name: WI_PDB_28439
---
-Admin User: Winnie_plsqlauca_28439
---
-Status: READ WRITE (Auto-open enabled)
+- PDB Name: WI_PDB_28439
+
+- Admin User: Winnie_plsqlauca_28439
+
+- Status: READ WRITE (Auto-open enabled)
 
 ### PDB Created
 ![ER](screenshots/PDBS_WI.png)
@@ -104,9 +104,23 @@ SELECT username FROM dba_users WHERE username LIKE '%PLSQLAUCA%';
 I learned to always check PDB status before opening to avoid errors. The FILE_NAME_CONVERT parameter is required when creating from pdbseed. Using SAVE STATE means the PDB will open automatically after database restarts. OEM setup was easier than expected once I got the ports configured.
 
 ## References
-Oracle Database 21c Documentation
-Course Lecture: "Introduction to PL/SQL"
-Course Lecture: "Oracle Database Environment (CDBs & PDBs) & OEM"
+- Oracle Database 21c Documentation
+
+- Course Lecture: "Introduction to PL/SQL"
+
+- Course Lecture: "Oracle Database Environment (CDBs & PDBs) & OEM"
+
+- Oracle Corporation. Oracle Database Documentation (21c).  
+  https://docs.oracle.com/en/database/oracle/oracle-database/21/
+
+- Oracle Corporation. Multitenant Architecture (Pluggable Databases).  
+  https://docs.oracle.com/en/database/oracle/oracle-database/21/multi/
+
+- Oracle Corporation. SQL\*Plus Command-Line Tool.  
+  https://docs.oracle.com/en/database/oracle/oracle-database/21/sqpug/
+
+- GitHub Docs – Getting Started with Repositories.  
+  https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
 
 
 ## Final Checklist
